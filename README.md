@@ -8,7 +8,7 @@ See how to create a Flutter app entirely from scratch, going to go further and l
 
 Designed a Mi Card, which is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-![Mi_Card_Puranjay](https://user-images.githubusercontent.com/68175356/129927476-8dbb83fc-f61d-48da-ba3e-b2e92b020e80.PNG)
+![Mi_Card_Puranjay](https://user-images.githubusercontent.com/68175356/129928785-ed03a83f-3820-42bf-b993-5d75058b9060.PNG)
 
 ## What did I learn
 
